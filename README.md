@@ -67,7 +67,7 @@ _NOTE: Enter the same id values as Customers Table in Restaurants,Orders,Transac
 
 3. Follow the follow-up instructions to implement the respective queries.
 
- **Project maintained and designed by : Ogodiseng Sehoole
+**Project maintained and designed by : Ogodiseng Sehoole**
  
-**For help or any inquiries contact Ogodiseng Sehoole at godisehoole@hotmail.com 
+**For help or any inquiries contact Ogodiseng Sehoole at godisehoole@hotmail.com** 
 

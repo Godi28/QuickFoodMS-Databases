@@ -57,15 +57,16 @@ _NOTE: Enter the same id values as Customers Table in Restaurants,Orders,Transac
 ![CONNECTION](https://user-images.githubusercontent.com/88197915/144799592-a03d395d-cf56-4e6f-a79b-406f8c134e0e.PNG)
 
 2. As per on screen instructions :
-Enter the number 1 to select a linked entry using the customer's name. 
-Enter the number 2 to select a linked entry using the order number.
-Enter the number 3 to add a new customer to the database.
-Enter the number 4 to update existing customer details in the database.
-Enter the number 5 to check for missing information in the database or to check if QuickFood Project is finalised and create Invoices.
-Enter the number 6 to update missing entry information.
+
+*Enter the number 1 to select a linked entry using the customer's name. 
+*Enter the number 2 to select a linked entry using the order number.
+*Enter the number 3 to add a new customer to the database.
+*Enter the number 4 to update existing customer details in the database.
+*Enter the number 5 to check for missing information in the database or to check if QuickFood Project is finalised and create Invoices.
+*Enter the number 6 to update missing entry information.
 
 3. Follow the follow-up instructions to implement the respective queries.
 
- <font size="1"> **Project maintained and designed by : Ogodiseng Sehoole**
-**For help or any inquiries contact Ogodiseng Sehoole at** godisehoole@hotmail.com </font> 
+ **Project maintained and designed by : Ogodiseng Sehoole**
+**For help or any inquiries contact Ogodiseng Sehoole at** godisehoole@hotmail.com 
 
